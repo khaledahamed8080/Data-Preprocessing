@@ -32,7 +32,8 @@ Scale numerical features to ensure that they have similar ranges and distributio
 <h2>Feature Selection:</h2>
 
 Select the most relevant features from the dataset to improve model performance and reduce overfitting. This can involve techniques such as univariate feature selection, recursive feature elimination, and feature importance ranking.
-<h2>Data Integration:
+
+<h2>Data Integration:</h2>
 
 Integrate multiple datasets or sources of data to create a unified dataset for analysis and modeling. This can involve merging, joining, or concatenating datasets based on common identifiers or keys.
 <h2>Data Normalization:</h2>
